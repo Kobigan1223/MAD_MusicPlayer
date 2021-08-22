@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">playerLab4</string>
+    <string name="button1">Start</string>
+    <string name="button2">Stop</string>
+</resources>
